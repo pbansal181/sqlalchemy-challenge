@@ -32,6 +32,8 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 
 6. Plot the results by using the DataFrame plot method, as the following image shows:
 
+![image](https://github.com/pbansal181/sqlalchemy-challenge/assets/148804724/53a3cb2d-d77c-4e7b-b71e-a87ed79b3a8c)
+
 7. Use Pandas to print the summary statistics for the precipitation data.
 
 **Station Analysis**
@@ -54,7 +56,9 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 
 	c. Plot the results as a histogram with bins=12, as the following image shows:
 
-5. Close your session.
+![image](https://github.com/pbansal181/sqlalchemy-challenge/assets/148804724/5199dd46-4e64-41d1-b181-ef55a8fb2521)
+
+6. Close your session.
 
 
 **Part 2: Design Your Climate App**
